@@ -6,4 +6,4 @@ Are all router and modem cables connected properly?
 
 re there any range extenders on the network? Is the customer connected to one?
 
-# https://blog.routethis.com/questions-isp-support-agents-ask-on-home-network-calls/
+
